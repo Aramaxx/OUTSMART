@@ -1,0 +1,18 @@
+Capstone Project Title:
+OUTSMART: A SMART OUTLET DEVICE FOR MONITORING AND CONTROLLING CONNECTED DEVICES TO OPTIMIZE ELECTRICITY CONSUMPTION
+
+GitHub Repository Link:
+https://github.com/Aramaxx/OUTSMART
+
+Program:
+Bachelor of Science in Computer Engineering
+STI College Novaliches
+
+Group Members:
+1. Daniel Ross B. Camara
+2. Chemical V. Valdehueza
+3. Michael James L. Velasco
+4. Jullie Ann L. Villas
+
+Adviser:
+Mr. Mark Alvin C. Malenab
